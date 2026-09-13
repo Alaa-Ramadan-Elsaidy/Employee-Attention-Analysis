@@ -80,15 +80,15 @@ Built entirely with **pandas, numpy, matplotlib, and seaborn**. The analysis is 
 
 <div align="center">
 
-<img src="images/dashboard_home.png" width="700"/>
+<img src="Home.jfif" width="700"/>
 
 <br/><br/>
 
-<img src="images/dashboard_overview.png" width="420"/> <img src="images/dashboard_departments.png" width="420"/>
+<img src="Overview.jfif" width="420"/> <img src="Departmenrs.jfif" width="420"/>
 
 <br/><br/>
 
-<img src="images/dashboard_performance.png" width="420"/> <img src="images/dashboard_why_attrition.png" width="420"/>
+<img src="Performance.jfif" width="420"/> <img src="WhyAttrition.jfif" width="420"/>
 
 </div>
 
