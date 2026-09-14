@@ -157,3 +157,18 @@ For the dashboard, open **`Task3_Voltix.pbix`** in Power BI Desktop.
 Made with 🐍 Python + 📊 Power BI
 
 </div>
+<!-- Connect with me Section -->
+<h3>📫 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alaa-ramadan-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/alaaaymanramadan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://github.com/Alaa-Ramadan-Elsaidy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
